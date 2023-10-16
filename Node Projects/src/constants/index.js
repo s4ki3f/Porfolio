@@ -24,6 +24,9 @@ import {
   tripguide,
   threejs,
 } from "../assets";
+import c2sg from "../assets/company/c2sg.png";
+import mle from "../assets/mle.png";
+import cloud from "../assets/cloud.png";
 
 export const navLinks = [
   {
@@ -54,9 +57,13 @@ const services = [
     icon: backend,
   },
   {
-    title: "Content Creator",
-    icon: creator,
+    title: "Cloud Computing",
+    icon: cloud,
   },
+  {
+    title: "Machine Learning Engineer",
+    icon: mle,
+  }
 ];
 
 const technologies = [
@@ -116,11 +123,11 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
-    icon: starbucks,
-    iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    title: "Undergrade Research Assistant",
+    company_name: "C2SG Lab, BRAC University",
+    icon: c2sg,
+    iconBg: "#E6DEDD",
+    date: "March 2022 - Present",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -129,8 +136,8 @@ const experiences = [
     ],
   },
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
+    title: "Machine Learning Engineer",
+    company_name: "mPower Social Enterprises Ltd.",
     icon: tesla,
     iconBg: "#E6DEDD",
     date: "Jan 2021 - Feb 2022",
@@ -142,8 +149,8 @@ const experiences = [
     ],
   },
   {
-    title: "Web Developer",
-    company_name: "Shopify",
+    title: "Cyber Security Engineer",
+    company_name: "Enterprrse InfoSec Consultant",
     icon: shopify,
     iconBg: "#383E56",
     date: "Jan 2022 - Jan 2023",
@@ -155,8 +162,8 @@ const experiences = [
     ],
   },
   {
-    title: "Full stack Developer",
-    company_name: "Meta",
+    title: "Junior Software Developer",
+    company_name: "Coherent Technologies Ltd.",
     icon: meta,
     iconBg: "#E6DEDD",
     date: "Jan 2023 - Present",
