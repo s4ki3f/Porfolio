@@ -27,6 +27,9 @@ import {
 import c2sg from "../assets/company/c2sg.png";
 import mle from "../assets/mle.png";
 import cloud from "../assets/cloud.png";
+import mpower from "../assets/company/mpower.jpeg";
+import eic from "../assets/company/eic.png";
+import ctl from "../assets/company/ctl.png";
 
 export const navLinks = [
   {
@@ -138,7 +141,7 @@ const experiences = [
   {
     title: "Machine Learning Engineer",
     company_name: "mPower Social Enterprises Ltd.",
-    icon: tesla,
+    icon: mpower,
     iconBg: "#E6DEDD",
     date: "Jan 2021 - Feb 2022",
     points: [
@@ -151,7 +154,7 @@ const experiences = [
   {
     title: "Cyber Security Engineer",
     company_name: "Enterprrse InfoSec Consultant",
-    icon: shopify,
+    icon: eic,
     iconBg: "#383E56",
     date: "Jan 2022 - Jan 2023",
     points: [
@@ -164,7 +167,7 @@ const experiences = [
   {
     title: "Junior Software Developer",
     company_name: "Coherent Technologies Ltd.",
-    icon: meta,
+    icon: ctl,
     iconBg: "#E6DEDD",
     date: "Jan 2023 - Present",
     points: [
