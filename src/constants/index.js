@@ -47,10 +47,10 @@ export const navLinks = [
 ];
 
 const services = [
-  {
+  /*{
     title: "Web Developer",
     icon: web,
-  },
+  },*/
   {
     title: "React Native Developer",
     icon: mobile,
@@ -180,7 +180,7 @@ const experiences = [
 ];
 
 const testimonials = [
-  {
+  /*{
     testimonial:
       "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
     name: "Sara Lee",
@@ -203,7 +203,7 @@ const testimonials = [
     designation: "CTO",
     company: "456 Enterprises",
     image: "https://randomuser.me/api/portraits/women/6.jpg",
-  },
+  },*/
 ];
 
 const projects = [
