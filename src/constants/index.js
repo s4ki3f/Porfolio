@@ -145,7 +145,7 @@ const experiences = [
     company_name: "mPower Social Enterprises Ltd.",
     icon: mpower,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "Nov 2022 - Jul 2023",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -171,7 +171,7 @@ const experiences = [
     company_name: "Coherent Technologies Ltd.",
     icon: ctl,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "Oct 2019 - Sep 2020",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
