@@ -158,7 +158,7 @@ const experiences = [
     company_name: "Enterprrse InfoSec Consultant",
     icon: eic,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "Aug 2022 - Dec 2022",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
