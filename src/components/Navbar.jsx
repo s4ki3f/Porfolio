@@ -30,7 +30,7 @@ const Navbar = () => {
           font-bold cursor-pointer flex"> 
           Sadiqul Sakif&nbsp;
           <span
-          className="sm:block hidden">| Full Stack Developer
+          className="sm:block hidden">
           </span>
           </p>
           </Link>

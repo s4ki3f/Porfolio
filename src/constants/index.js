@@ -30,7 +30,9 @@ import cloud from "../assets/cloud.png";
 import mpower from "../assets/company/mpower.jpeg";
 import eic from "../assets/company/eic.png";
 import ctl from "../assets/company/ctl.png";
-
+import expensetracker from "../assets/expensetracker.png";
+import vara_lagbe from "../assets/vara_lagbe.png";
+import predicting from "../assets/predicting.png";
 export const navLinks = [
   {
     id: "about",
@@ -210,65 +212,107 @@ const projects = [
   {
     name: "Car Rent",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.The real estate site project is a demonstration of the development of a mobile application using Flutter for individuals to post and search for rental houses and apartments.",
     tags: [
       {
-        name: "react",
+        name: "flutter",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "Dart",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "restAPI",
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
-    source_code_link: "https://github.com/",
+    image: vara_lagbe,
+    source_code_link: "https://github.com/s4ki3f/vara_lagbe",
   },
   {
-    name: "Job IT",
+    name: "Expense Tracker",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Expense Tracker is an expense management application, that provides a dashboard, and email alert for the tracks for each user. an integrated load balancer for traffic management.",
     tags: [
       {
-        name: "react",
+        name: "C#",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "HTML",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "Javascript",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: expensetracker,
+    source_code_link: "https://github.com/s4ki3f/Expense-tracker",
+  },
+  {
+    name: "Job Portal",
+    description:
+      "A job searching to find Job through the site.",
+    tags: [
+      {
+        name: "reactjs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "HTML",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwindcss",
         color: "pink-text-gradient",
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/s4ki3f/JobPortal",
   },
   {
-    name: "Trip Guide",
+    name: "Vehicle License Plate Recognition",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "This LPR(Licence Plate Recognition) Project used object detection and machine learning to identify license plates from moving automobiles, utilizing Python OCR and YOLOv4.",
     tags: [
       {
-        name: "nextjs",
+        name: "YOLOv4",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "Darknet",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "MsCoco, Custom Dataset",
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+    image: vara_lagbe,
+    source_code_link: "https://github.com/s4ki3f/yolov4-custom-functions_for_licence_plate",
+  },
+  {
+    name: "Stock market Prediction using Deep Learning and Machine Learning",
+    description:
+      "This Project employs Deep Learning and Machine Learning approaches to create a predictive model for stock prices, using Python modules such as Pandas, Seaborn, Keras, and LSTM models. The datasets used here are from Dhaka Stock Exchange.",
+    tags: [
+      {
+        name: "Pandas",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "LSTM",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Keras",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: predicting,
+    source_code_link: "https://github.com/s4ki3f/yolov4-custom-functions_for_licence_plate",
   },
 ];
 
