@@ -68,7 +68,7 @@ const services = [
   {
     title: "Machine Learning Engineer",
     icon: mle,
-  }
+  },
 ];
 
 const technologies = [
@@ -167,7 +167,7 @@ const experiences = [
     ],
   },
   {
-    title: "Junior Software Developer",
+    title: "Trainee Software Developer",
     company_name: "Coherent Technologies Ltd.",
     icon: ctl,
     iconBg: "#E6DEDD",
@@ -210,7 +210,7 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Rent a Flat",
     description:
       "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.The real estate site project is a demonstration of the development of a mobile application using Flutter for individuals to post and search for rental houses and apartments.",
     tags: [
@@ -253,8 +253,7 @@ const projects = [
   },
   {
     name: "Job Portal",
-    description:
-      "A job searching to find Job through the site.",
+    description: "A job searching to find Job through the site.",
     tags: [
       {
         name: "reactjs",
@@ -291,7 +290,8 @@ const projects = [
       },
     ],
     image: vara_lagbe,
-    source_code_link: "https://github.com/s4ki3f/yolov4-custom-functions_for_licence_plate",
+    source_code_link:
+      "https://github.com/s4ki3f/yolov4-custom-functions_for_licence_plate",
   },
   {
     name: "Stock market Prediction using Deep Learning and Machine Learning",
@@ -312,7 +312,8 @@ const projects = [
       },
     ],
     image: predicting,
-    source_code_link: "https://github.com/s4ki3f/yolov4-custom-functions_for_licence_plate",
+    source_code_link:
+      "https://github.com/s4ki3f/yolov4-custom-functions_for_licence_plate",
   },
 ];
 
